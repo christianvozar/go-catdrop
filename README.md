@@ -1,2 +1,3 @@
-# libcatdrop
-Functions to Solve Classic Egg/Cat Drop Problem
+# go-catdrop
+
+Functions to solve the classic egg (or cat) drop problem in Go.
